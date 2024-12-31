@@ -1,0 +1,21 @@
+[gd_scene load_steps=4 format=3 uid="uid://bb63sdx6yfk1p"]
+
+[ext_resource type="Script" path="res://Scripts/move_arrow_left.gd" id="1_d1i6y"]
+[ext_resource type="Texture2D" uid="uid://6j6v5erh4k6b" path="res://Assets/Move_AL.png" id="1_t11fa"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_nau77"]
+size = Vector2(34, 17)
+
+[node name="Move_ArrowLeft" type="Area2D"]
+script = ExtResource("1_d1i6y")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture_filter = 1
+texture = ExtResource("1_t11fa")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, 8.5)
+shape = SubResource("RectangleShape2D_nau77")
+
+[connection signal="area_shape_entered" from="." to="." method="_on_Move_ArrowLeft_area_shape_entered"]
+[connection signal="area_shape_exited" from="." to="." method="_on_Move_ArrowLeft_area_shape_exited"]
