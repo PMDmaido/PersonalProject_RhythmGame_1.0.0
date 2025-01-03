@@ -1,0 +1,9 @@
+res://Scenes/game.tscn::e062fb5eeb8b8794c48c21baea900a5c::1735645621::res://.godot/exported/133200997/export-d45e16ca8d170891778b9dcfa9c69e68-game.scn
+res://Scenes/idle_arrow_down.tscn::7a4b99157e4cdf6fa3ebdd1049ba6e91::1735645621::res://.godot/exported/133200997/export-54fa3761d5f0cd0c73c0f401374ab330-idle_arrow_down.scn
+res://Scenes/idle_arrow_left.tscn::e3169d47a52a7f7de9791a8ab5f21f15::1735645621::res://.godot/exported/133200997/export-f3302fa921baafe67d0239280048db26-idle_arrow_left.scn
+res://Scenes/idle_arrow_right.tscn::1a8c5646c51d7c2648a1e51fd0dfe600::1735645621::res://.godot/exported/133200997/export-cc838f0a3b196af57949828b262b48ba-idle_arrow_right.scn
+res://Scenes/idle_arrow_up.tscn::76e7f4c9bbb503fc5196b5062515c178::1735645621::res://.godot/exported/133200997/export-1f5eed21fd9ab6a57567b70f21b50d7c-idle_arrow_up.scn
+res://Scenes/move_arrow_down.tscn::7f04c00d46bb9f46c7b1d189272fcd8c::1735645622::res://.godot/exported/133200997/export-659e544bc2733c292733f301a5567666-move_arrow_down.scn
+res://Scenes/move_arrow_left.tscn::6beb1b238e331cacf0c0bd3e005582fd::1735645621::res://.godot/exported/133200997/export-71c74cff565ab45e8eac99ca4070cee0-move_arrow_left.scn
+res://Scenes/move_arrow_right.tscn::447d3a77b20215a99f3e5439e80fffc9::1735645622::res://.godot/exported/133200997/export-cefb37ef0c6e188927a85e98fc8b1e79-move_arrow_right.scn
+res://Scenes/move_arrow_up.tscn::9b5fd5f5a22aaf30d4d7a63ee559feff::1735645622::res://.godot/exported/133200997/export-eb1392d8fc7d255cbd02449c22b7af97-move_arrow_up.scn
